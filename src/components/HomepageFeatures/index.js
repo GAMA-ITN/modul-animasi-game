@@ -1,7 +1,7 @@
 import clsx from "clsx";
 import Heading from "@theme/Heading";
 import styles from "./styles.module.css";
-import unity from "./unity-white.png";
+import unity from "./unity-bluesky.png";
 
 const FeatureList = [
 	{
