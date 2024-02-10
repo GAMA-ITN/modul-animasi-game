@@ -1,4 +1,4 @@
-# BAB 1 - Pengenalan Animasi dan Animate CC
+# Pengenalan Animasi dan Animate CC
 
 ## 1.1 Animasi
 
@@ -11,7 +11,7 @@ Pada abad 18 saat itu, film animasi yang dibuat banyak menggunakan teknik Stop M
 <!-- Gambar -->
 <p align="center" >
 
-![Gambar 1.1 Penemu Animasi Pertama Kali di dunia](img/img-bab1/image.png)
+![Gambar 1.1 Penemu Animasi Pertama Kali di dunia](../img/img-bab1/image.png)
 
 </p>
 
@@ -20,7 +20,7 @@ Ini adalah era emas animasi kartun, baik pencapaian secara komersial, teknikal, 
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-1.png)
+![alt text](../img/img-bab1/image-1.png)
 
 </p>
 
@@ -28,7 +28,7 @@ Era tahun 1958-1985 (The Television Age) mulai menggeser dominasi layar lebar di
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-2.png)
+![alt text](../img/img-bab1/image-2.png)
 
 </p>
 
@@ -36,7 +36,7 @@ Penemuan teknologi digital tahun 1986- 2010 turut mempengaruhi perkembangan anim
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-3.png)
+![alt text](../img/img-bab1/image-3.png)
 
 </p>
 
@@ -48,7 +48,7 @@ Jenis ini merupakan tipe awal munculnya animasi yang pertama kali digunakan di d
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-4.png)
+![alt text](../img/img-bab1/image-4.png)
 
 </p>
 
@@ -58,7 +58,7 @@ Pada animasi 2D, figur animasi tersebut dibuat dan diedit di komputer dengan men
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-5.png)
+![alt text](../img/img-bab1/image-5.png)
 
 </p>
 
@@ -68,7 +68,7 @@ Animasi 3D adalah animasi perpaduan animasi stopmotion dan animasi 2D dimana ani
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-6.png)
+![alt text](../img/img-bab1/image-6.png)
 
 </p>
 
@@ -78,7 +78,7 @@ Stop motion adalah animasi yang menggunakan shooting frame demi frame, menggunak
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-7.png)
+![alt text](../img/img-bab1/image-7.png)
 
 </p>
 
@@ -98,7 +98,7 @@ Squash dan stretch atau prinsip elastisitas adalah penambahan efek plastis pada 
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-8.png)
+![alt text](../img/img-bab1/image-8.png)
 
 </p>
 
@@ -108,7 +108,7 @@ Prinsip anticipation menekankan bahwa ada gerakan ancang-ancang (antipasion) seb
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-9.png)
+![alt text](../img/img-bab1/image-9.png)
 
 </p>
 
@@ -173,7 +173,7 @@ Adobe Animate sebelumnya dikenal sebagai Adobe Flash Professional dan Macromedia
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-10.png)
+![alt text](../img/img-bab1/image-10.png)
 
 </p>
 
@@ -203,7 +203,7 @@ Terdapat 2 letak panel, yaitu pada sisi kanan dan sisi bawah. Panel pada sisi ka
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-11.png)
+![alt text](../img/img-bab1/image-11.png)
 
 </p>
 
@@ -225,7 +225,7 @@ Layer Flash dianalogikan sebagai media gambar yang transparan. Dengan menumpuk b
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-12.png)
+![alt text](../img/img-bab1/image-12.png)
 
 </p>
 
@@ -242,7 +242,7 @@ Simbol adalah sebuah objek yang dirubah menjadi objek yang dapat digunakan berul
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-13.png)
+![alt text](../img/img-bab1/image-13.png)
 
 </p>
 
@@ -260,7 +260,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-14.png)
+![alt text](../img/img-bab1/image-14.png)
 
 </p>
 
@@ -268,7 +268,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-15.png)
+![alt text](../img/img-bab1/image-15.png)
 
 </p>
 
@@ -276,7 +276,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-16.png)
+![alt text](../img/img-bab1/image-16.png)
 
 </p>
 
@@ -284,7 +284,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-17.png)
+![alt text](../img/img-bab1/image-17.png)
 
 </p>
 
@@ -292,7 +292,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-18.png)
+![alt text](../img/img-bab1/image-18.png)
 
 </p>
 
@@ -300,7 +300,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-19.png)
+![alt text](../img/img-bab1/image-19.png)
 
 </p>
 
@@ -308,7 +308,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-20.png)
+![alt text](../img/img-bab1/image-20.png)
 
 </p>
 
@@ -316,8 +316,8 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-21.png)
-![alt text](img/img-bab1/image-22.png)
+![alt text](../img/img-bab1/image-21.png)
+![alt text](../img/img-bab1/image-22.png)
 
 </p>
 
@@ -325,7 +325,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-23.png)
+![alt text](../img/img-bab1/image-23.png)
 
 </p>
 
@@ -333,7 +333,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-24.png)
+![alt text](../img/img-bab1/image-24.png)
 
 </p>
 
@@ -341,7 +341,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-25.png)
+![alt text](../img/img-bab1/image-25.png)
 
 </p>
 
@@ -349,7 +349,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-26.png)
+![alt text](../img/img-bab1/image-26.png)
 
 </p>
 
@@ -357,7 +357,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-27.png)
+![alt text](../img/img-bab1/image-27.png)
 
 </p>
 
@@ -365,7 +365,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-28.png)
+![alt text](../img/img-bab1/image-28.png)
 
 </p>
 
@@ -373,7 +373,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-29.png)
+![alt text](../img/img-bab1/image-29.png)
 
 </p>
 
@@ -381,7 +381,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-30.png)
+![alt text](../img/img-bab1/image-30.png)
 
 </p>
 
@@ -389,7 +389,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-31.png)
+![alt text](../img/img-bab1/image-31.png)
 
 </p>
 
@@ -397,7 +397,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-32.png)
+![alt text](../img/img-bab1/image-32.png)
 
 </p>
 
@@ -405,7 +405,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-33.png)
+![alt text](../img/img-bab1/image-33.png)
 
 </p>
 
@@ -413,7 +413,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-34.png)
+![alt text](../img/img-bab1/image-34.png)
 
 </p>
 
@@ -421,7 +421,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-35.png)
+![alt text](../img/img-bab1/image-35.png)
 
 </p>
 
@@ -429,7 +429,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-36.png)
+![alt text](../img/img-bab1/image-36.png)
 
 </p>
 
@@ -437,7 +437,7 @@ Classic Tween adalah pergerakan suatu objek dari keadaan awal sampai keadaan akh
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-37.png)
+![alt text](../img/img-bab1/image-37.png)
 
 </p>
 
@@ -449,7 +449,7 @@ Shape Tween adalah perubahan bentuk dari suatu objek ke objek lain. untuk Shape 
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-38.png)
+![alt text](../img/img-bab1/image-38.png)
 
 </p>
 
@@ -457,7 +457,7 @@ Shape Tween adalah perubahan bentuk dari suatu objek ke objek lain. untuk Shape 
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-39.png)
+![alt text](../img/img-bab1/image-39.png)
 
 </p>
 
@@ -465,7 +465,7 @@ Shape Tween adalah perubahan bentuk dari suatu objek ke objek lain. untuk Shape 
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-40.png)
+![alt text](../img/img-bab1/image-40.png)
 
 </p>
 
@@ -473,7 +473,7 @@ Shape Tween adalah perubahan bentuk dari suatu objek ke objek lain. untuk Shape 
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-41.png)
+![alt text](../img/img-bab1/image-41.png)
 
 </p>
 
@@ -481,7 +481,7 @@ Shape Tween adalah perubahan bentuk dari suatu objek ke objek lain. untuk Shape 
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-42.png)
+![alt text](../img/img-bab1/image-42.png)
 
 </p>
 
@@ -489,7 +489,7 @@ Shape Tween adalah perubahan bentuk dari suatu objek ke objek lain. untuk Shape 
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-43.png)
+![alt text](../img/img-bab1/image-43.png)
 
 </p>
 
@@ -497,7 +497,7 @@ Shape Tween adalah perubahan bentuk dari suatu objek ke objek lain. untuk Shape 
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-44.png)
+![alt text](../img/img-bab1/image-44.png)
 
 </p>
 
@@ -509,7 +509,7 @@ Motion tween lebih sederhana lagi daripada classic tween karena pada Motion twee
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-45.png)
+![alt text](../img/img-bab1/image-45.png)
 
 </p>
 
@@ -517,7 +517,7 @@ Motion tween lebih sederhana lagi daripada classic tween karena pada Motion twee
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-46.png)
+![alt text](../img/img-bab1/image-46.png)
 
 </p>
 
@@ -525,7 +525,7 @@ Motion tween lebih sederhana lagi daripada classic tween karena pada Motion twee
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-47.png)
+![alt text](../img/img-bab1/image-47.png)
 
 </p>
 
@@ -533,7 +533,7 @@ Motion tween lebih sederhana lagi daripada classic tween karena pada Motion twee
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-48.png)
+![alt text](../img/img-bab1/image-48.png)
 
 </p>
 
@@ -541,7 +541,7 @@ Motion tween lebih sederhana lagi daripada classic tween karena pada Motion twee
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-49.png)
+![alt text](../img/img-bab1/image-49.png)
 
 </p>
 
@@ -549,7 +549,7 @@ Motion tween lebih sederhana lagi daripada classic tween karena pada Motion twee
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-50.png)
+![alt text](../img/img-bab1/image-50.png)
 
 </p>
 
@@ -557,7 +557,7 @@ Motion tween lebih sederhana lagi daripada classic tween karena pada Motion twee
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-51.png)
+![alt text](../img/img-bab1/image-51.png)
 
 </p>
 
@@ -565,6 +565,6 @@ Motion tween lebih sederhana lagi daripada classic tween karena pada Motion twee
 
 <p align="center" >
 
-![alt text](img/img-bab1/image-52.png)
+![alt text](../img/img-bab1/image-52.png)
 
 </p>

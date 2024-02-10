@@ -1,4 +1,3 @@
-
 # Link Penting
 
 Link Discord, Adobe Animate, Ilustrator & Unity
@@ -18,3 +17,7 @@ Link Discord, Adobe Animate, Ilustrator & Unity
 ### Unity
 
 [Download Unity](https://)
+
+```jsx title="docs/getting-started/start.md"
+console.log("cobain code block");
+```
