@@ -2,22 +2,9 @@
 
 Link Discord, Adobe Animate, Ilustrator & Unity
 
-### Join Discrod
-
-[Join Disini](https://)
-
-### Adobe Animate
-
-[Download Adobe Animate](https://)
-
-### Adobe Ilustrator
-
-[Download Adobe Ilustrator](https://)
-
-### Unity
-
-[Download Unity](https://)
-
-```jsx title="docs/getting-started/start.md"
-console.log("cobain code block");
-```
+| Keterangan                 | Link                                                                                                            |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Discrod                    | [Join Disini](https://discord.gg/zvq67zyQ)                                                                      |
+| Blender                    | [ Blender versi 2.83 LTS](https://www.blender.org/download/releases/2-83/)                                      |
+| Adobe Animate & ilustrator | [Download Adobe Animate & Ilustrator](https://drive.google.com/drive/folders/1Rue5xpGEjmGieFW_r5jvXQpzExWSMGh-) |
+| Unity versi 2020.3.48      | [Download Unity ](https://unity.com/releases/editor/archive)                                                    |
