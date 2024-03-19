@@ -24,7 +24,11 @@ const sidebars = {
 			link: {
 				type: "generated-index",
 			},
-			items: ["getting-started/aturan-praktikum", "getting-started/start"],
+			items: [
+				"getting-started/aturan-praktikum",
+				// "getting-started/perihal-tugas",
+				"getting-started/start",
+			],
 		},
 
 		// Bab 1
@@ -38,14 +42,18 @@ const sidebars = {
 		},
 
 		// Bab 2
-		// {
-		// 	type: "category",
-		// 	label: "BAB 2",
-		// 	link: {
-		// 		type: "generated-index",
-		// 	},
-		// 	items: ["modul-anigame/bab2/modul", "modul-anigame/bab2/tugas"],
-		// },
+		{
+			type: "category",
+			label: "BAB 2",
+			link: {
+				type: "generated-index",
+			},
+			items: [
+				"modul-anigame/bab2/modul",
+				"modul-anigame/bab2/bahan",
+				"modul-anigame/bab2/tugas",
+			],
+		},
 
 		// Bab 3
 		// {
