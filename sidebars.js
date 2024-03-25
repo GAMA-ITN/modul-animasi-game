@@ -56,14 +56,18 @@ const sidebars = {
 		},
 
 		// Bab 3
-		// {
-		// 	type: "category",
-		// 	label: "BAB 3",
-		// 	link: {
-		// 		type: "generated-index",
-		// 	},
-		// 	items: ["modul-anigame/bab3/modul", "modul-anigame/bab3/tugas"],
-		// },
+		{
+			type: "category",
+			label: "BAB 3",
+			link: {
+				type: "generated-index",
+			},
+			items: [
+				"modul-anigame/bab3/modul",
+				"modul-anigame/bab3/bahan",
+				// "modul-anigame/bab3/tugas",
+			],
+		},
 	],
 };
 
