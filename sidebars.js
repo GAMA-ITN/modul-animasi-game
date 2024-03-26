@@ -65,7 +65,7 @@ const sidebars = {
 			items: [
 				"modul-anigame/bab3/modul",
 				"modul-anigame/bab3/bahan",
-				// "modul-anigame/bab3/tugas",
+				"modul-anigame/bab3/tugas",
 			],
 		},
 	],
